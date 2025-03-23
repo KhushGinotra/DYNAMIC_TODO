@@ -1,0 +1,27 @@
+body{
+    color:white;
+    background-color: black;
+    padding: 40px;
+    padding-top: 10px;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    padding:auto;
+}
+h2{
+    text-align: left;
+}
+#GG{
+    width: 300px; 
+    height:auto; 
+    font-size: 20px;
+    background-color: rgb(18, 14, 22);
+    font-weight: bold;
+    color: white;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
